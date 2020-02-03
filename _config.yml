@@ -1,11 +1,11 @@
 # Site settings
-author: Matoya Williams
-title: 
+author: MaToya Williams
+title: Starting New
 header-img: img/home-bg.png
 email: matoyawilliams@yahoo.com
-copyright_name: Matoya Williams
+copyright_name: MaToya Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Starting on the right track
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  matoyawilliams
